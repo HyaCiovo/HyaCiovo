@@ -1,18 +1,41 @@
-### Hi there 👋
+### Hi there 👋 I'm hyacinth
 
-[![Anurag's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/anuraghazra/github-readme-stats)
+I'm a frontend engineer from Hangzhou China
 
-<!--
-**HyaCiovo/HyaCiovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on : a small state-owned enterprise
 
-Here are some ideas to get you started:
+🌱 I’m currently learning : how to be a **Senior Frontend Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with : how to make more `💸💸💸`
+
+
+
+### 🏠 Blog:
+
+- **[HyaCinth - 掘金](https://juejin.cn/user/4332545970820861)**
+
+
+
+### 📫 Reach me
+
+- E-mail :  zhujiruo@foxmail.com
+- QQ : 849385638
+- Wechat : Ench4nted2MeetU
+
+
+
+### 🌱 Currently learning
+
+​	Next.js、React、Vue、Taro、Golang、Solidity ...
+
+
+
+### 📊 Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" />
+
+
+
+### 📈 Activity Graph
+
+[![Hyacinth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyaciovo&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)

@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm hyacinth
 
-I'm a frontend engineer from Hangzhou China
+🫡 I'm a frontend engineer from Hangzhou China
 
-🔭 I’m currently working on : a small state-owned enterprise
+🧰 I’m currently working for a small state-owned enterprise
 
-🌱 I’m currently learning : how to be a **Senior Frontend Engineer**
-
-🤔 I’m looking for help with : how to make more `💸💸💸`
+🤔 I’m looking for help with :  how to be a **Senior Frontend Engineer** & how to make more `💸💸💸`
 
 
 

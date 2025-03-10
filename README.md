@@ -10,7 +10,7 @@
 
 ### 🏠 Blog:
 
-- **[HyaCinth - 掘金](https://juejin.cn/user/4332545970820861)**
+- **[HyaCinth - JueJin](https://juejin.cn/user/4332545970820861)**
 
 
 
@@ -31,9 +31,3 @@
 ### 📊 Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" />
-
-
-
-### 📈 Activity Graph
-
-[![Hyacinth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyaciovo&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)

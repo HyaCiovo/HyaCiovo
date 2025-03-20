@@ -21,6 +21,6 @@ jobs:
           # 图形
           BLOCKS: "⬜🟨🟩"
           # 时间范围
-          TIME_RANGE: last_30_days
+          TIME_RANGE: all_time
           # 显示时间
           SHOW_TIME: true

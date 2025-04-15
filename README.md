@@ -10,6 +10,8 @@
 
 ### 🏠 Blog:
 
+- **[Hyacinth - Vercel](https://hyaciovo.vercel.app)**
+
 - **[HyaCinth - JueJin](https://juejin.cn/user/4332545970820861)**
 
 

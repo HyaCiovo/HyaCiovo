@@ -4,7 +4,7 @@
 
 🧰 I’m currently working for a small state-owned enterprise
 
-🤔 I’m looking for help with :  how to be a **Senior Frontend Engineer** & how to make more `💸💸💸`
+🤔 I’m looking for help with :  how to be a **Senior Frontend Engineer**
 
 
 

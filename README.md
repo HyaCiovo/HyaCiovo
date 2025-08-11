@@ -23,9 +23,9 @@
 
 
 
-### 🌱 Currently learning
+### 🌱 Stack
 
-​	Next.js、React、Vue、Taro、Golang、Solidity ...
+​	Next.js、React、Vue、Taro ...
 
 
 

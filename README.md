@@ -34,7 +34,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaciovo&layout=compact&theme=buefy&hide_border=true" alt="" />
 
 
-### 🧰 Work (last 30 days)
+### 🧰 Work (last 7 days)
 <!--START_SECTION:waka-->
 
 ```txt

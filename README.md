@@ -30,7 +30,7 @@
 | ---- | ---- |
 
 
-### 🧰 Work (last 7 days)
+### 🧰 Work (last 7 days)  Damn trae can not install wakatime😭 !!
 <!--START_SECTION:waka-->
 
 ```txt

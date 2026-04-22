@@ -2,7 +2,7 @@
 
 🫡 I'm a frontend engineer from Hangzhou China
 
-> 🐱‍💻已离职，正在寻找新的工作机会，欢迎随时联系
+> Now in Suzhou
 
 
 ### 📫 Reach me

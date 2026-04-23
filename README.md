@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm hyacinth
 
-🫡 I'm a frontend engineer from Hangzhou China
-
-> Now in Suzhou
-
+🫡 I'm a frontend engineer from Suzhou China
 
 ### 📫 Reach me
 
@@ -16,12 +13,6 @@
 - **[Hyacinth - Vercel](https://hyaciovo.vercel.app)**
 
 - **[HyaCinth - JueJin](https://juejin.cn/user/4332545970820861)**
-
-
-### 🌱 Stack
-
-​	Next.js、React、Vue、Taro ...
-
 
 
 ### 📊 Stats

@@ -1,27 +1,26 @@
-### Hi there 👋 I'm hyacinth
+### 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒 👋 𝐼'𝑚 ℎ𝑦𝑎𝑐𝑖𝑛𝑡ℎ
 
-🫡 I'm a frontend engineer from Suzhou China
+🫡 𝐼'𝑚 𝑎 𝑓𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝑆𝑢𝑧ℎ𝑜𝑢 𝐶ℎ𝑖𝑛𝑎
+### 📫 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒
 
-### 📫 Reach me
-
-- E-mail :  zhujiruo@foxmail.com
-- QQ : 849385638
-- WeChat : Ench4nted2MeetU
+- 𝐸𝑚𝑎𝑖𝑙 :  zhujiruo@foxmail.com
+- 𝑄𝑄 : 849385638
+- 𝑊𝑒𝐶ℎ𝑎𝑡 : Ench4nted2MeetU
 
 ### 🏠 Blog:
 
-- **[Hyacinth - Vercel](https://hyaciovo.vercel.app)**
+- **[𝐻𝑦𝑎𝑐𝑖𝑛𝑡ℎ - 𝑉𝑒𝑟𝑐𝑒𝑙](https://hyaciovo.vercel.app)**
 
-- **[HyaCinth - JueJin](https://juejin.cn/user/4332545970820861)**
+- **[𝐻𝑦𝑎𝐶𝑖𝑛𝑡ℎ - 𝐽𝑢𝑒𝐽𝑖𝑛](https://juejin.cn/user/4332545970820861)**
 
 
-### 📊 Stats
+### 📊 𝑆𝑡𝑎𝑡𝑠
 
 |  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" />  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaciovo&hide_border=true&layout=compact&theme=buefy" alt="" />  |
 | ---- | ---- |
 
 
-### 🧰 Work (last 7 days)  Damn trae can not install wakatime😭 !!
+### 🧰 𝑊𝑜𝑟𝑘 (𝑙𝑎𝑠𝑡 7 𝑑𝑎𝑦𝑠)
 <!--START_SECTION:waka-->
 
 ```txt

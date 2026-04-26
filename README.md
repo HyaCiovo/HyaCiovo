@@ -7,7 +7,7 @@
 - 𝑄𝑄 : 849385638
 - 𝑊𝑒𝐶ℎ𝑎𝑡 : Ench4nted2MeetU
 
-### 🏠 Blog:
+### 🏠 𝐵𝑙𝑜𝑔:
 
 - **[𝐻𝑦𝑎𝑐𝑖𝑛𝑡ℎ - 𝑉𝑒𝑟𝑐𝑒𝑙](https://hyaciovo.vercel.app)**
 

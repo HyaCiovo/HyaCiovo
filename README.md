@@ -14,12 +14,6 @@
 - **[𝐻𝑦𝑎𝐶𝑖𝑛𝑡ℎ - 𝐽𝑢𝑒𝐽𝑖𝑛](https://juejin.cn/user/4332545970820861)**
 
 
-### 📊 𝑆𝑡𝑎𝑡𝑠
-
-|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" />  |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaciovo&hide_border=true&layout=compact&theme=buefy" alt="" />  |
-| ---- | ---- |
-
-
 ### 🧰 𝑊𝑜𝑟𝑘 (𝑙𝑎𝑠𝑡 7 𝑑𝑎𝑦𝑠)
 <!--START_SECTION:waka-->
 

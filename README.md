@@ -1,4 +1,5 @@
 ### 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒 👋 𝐼'𝑚 ℎ𝑦𝑎𝑐𝑖𝑛𝑡ℎ
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/HyaCiovo)](https://githubroast.icu/u/HyaCiovo)
 
 🫡 𝐼'𝑚 𝑎 𝑓𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝑆𝑢𝑧ℎ𝑜𝑢 𝐶ℎ𝑖𝑛𝑎
 ### 📫 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒
@@ -13,9 +14,10 @@
 
 - **[𝐻𝑦𝑎𝐶𝑖𝑛𝑡ℎ - 𝐽𝑢𝑒𝐽𝑖𝑛](https://juejin.cn/user/4332545970820861)**
 
+|  stats  | languages  |
+|  ----  | ----  |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaciovo&hide_border=true&layout=compact&theme=buefy" alt="" /> |
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyaciovo&show_icons=true&theme=buefy&hide_border=true" alt="" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyaciovo&hide_border=true&layout=compact&theme=buefy" alt="" />
 
 
 ### 🧰 𝑊𝑜𝑟𝑘 (𝑙𝑎𝑠𝑡 7 𝑑𝑎𝑦𝑠)

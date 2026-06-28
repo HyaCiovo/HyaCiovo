@@ -2,6 +2,8 @@
 [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/HyaCiovo)](https://githubroast.icu/u/HyaCiovo)
 
 🫡 𝐼'𝑚 𝑎 𝑓𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝑆𝑢𝑧ℎ𝑜𝑢 𝐶ℎ𝑖𝑛𝑎
+
+<a href="https://githubroast.dev/u/HyaCiovo"><img src="https://githubroast.dev/api/card/HyaCiovo" alt="GitHub Roast" width="600" /></a>
 ### 📫 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒
 
 - 𝐸𝑚𝑎𝑖𝑙 :  zhujiruo@foxmail.com

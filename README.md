@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hyacinth</h1>
 
 <p align="center">
-  Frontend Engineer · AI for Science · Scientific Visualization · Workflow Systems
+  Frontend Engineer · AI4S · Scientific Visualization
 </p>
 
 <p align="center">
@@ -17,8 +17,9 @@
 - Frontend engineer based in Suzhou, China, currently building materials-AI and AI for Science products at Suzhou Laboratory.
 - 4 years of experience delivering data-intensive Web, H5, and mini-program applications; previously at Hangzhou Data Exchange.
 - Focused on frontend architecture, scientific workflow orchestration, AI Agent workspaces, 2D/3D visualization, and engineering infrastructure.
-- Active [Dify](https://github.com/langgenius/dify) frontend contributor with [40+ pull requests](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3AHyaCiovo).
+- Active [Dify](https://github.com/langgenius/dify) frontend contributor.
 - B.S. in Computer Science and Technology, Zhejiang University of Technology, Class of 2022.
+
 
 ## What I build
 
@@ -44,6 +45,12 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white" alt="Solid" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Oxlint-2F6FEB?logo=oxc&logoColor=white" alt="Oxlint" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Taro-000000?logo=react&logoColor=61DAFB" alt="Taro" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white" alt="TanStack Query" />
@@ -52,7 +59,6 @@
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 

@@ -1,9 +1,9 @@
 ### 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒 👋 𝐼'𝑚 ℎ𝑦𝑎𝑐𝑖𝑛𝑡ℎ
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/HyaCiovo)](https://githubroast.dev/u/HyaCiovo)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/hyaciovo)](https://ghfind.com/u/hyaciovo?ref=badge)
 
 🫡 𝐼'𝑚 𝑎 𝑓𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑓𝑟𝑜𝑚 𝑆𝑢𝑧ℎ𝑜𝑢 𝐶ℎ𝑖𝑛𝑎
 
-<a href="https://ghfind.com/u/hyaciovo"><img src="https://ghfind.com/api/card/hyaciovo?theme=dark&variant=pr&qr=1" alt="GitHub Roast" width="600" /></a>
+[![GitHub Roast](https://ghfind.com/api/card/hyaciovo?theme=dark&variant=pr)](https://ghfind.com/u/hyaciovo?ref=badge)
 ### 📫 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒
 
 - 𝐸𝑚𝑎𝑖𝑙 :  zhujiruo@foxmail.com

@@ -17,7 +17,7 @@
 - Frontend engineer based in Suzhou, China, currently building materials-AI and AI for Science products at Suzhou Laboratory.
 - 4 years of experience delivering data-intensive Web, H5, and mini-program applications; previously at Hangzhou Data Exchange.
 - Focused on frontend architecture, scientific workflow orchestration, AI Agent workspaces, 2D/3D visualization, and engineering infrastructure.
-- Active [Dify](https://github.com/langgenius/dify) frontend contributor.
+- (Used to be an) active [Dify](https://github.com/langgenius/dify) frontend contributor.
 - B.S. in Computer Science and Technology, Zhejiang University of Technology, Class of 2022.
 
 

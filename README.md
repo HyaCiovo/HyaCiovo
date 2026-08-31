@@ -66,8 +66,6 @@
 
 - Designing maintainable boundaries between page view models, server state, client state, and presentational components.
 - Building responsive workflow editors and data-heavy interfaces without sacrificing interaction quality.
-- Deferring expensive charts, 3D scenes, Markdown renderers, and route modules until they are needed.
-- Treating loading, empty, error, cancellation, and destructive-action states as part of the product contract.
 - Applying AI-assisted coding to implementation, refactoring, testing, documentation, and engineering knowledge reuse.
 
 ## Recent coding activity

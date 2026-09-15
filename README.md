@@ -9,7 +9,7 @@
   <a href="https://hyaciovo.vercel.app"><img src="https://img.shields.io/badge/Blog-hyaciovo.vercel.app-000000?logo=vercel" alt="Personal blog" /></a>
   <a href="https://juejin.cn/user/4332545970820861"><img src="https://img.shields.io/badge/Juejin-Hyacinth-1E80FF?logo=juejin" alt="Juejin profile" /></a>
   <a href="mailto:zhujiruo@foxmail.com"><img src="https://img.shields.io/badge/Email-zhujiruo%40foxmail.com-168DE2?logo=maildotru" alt="Email" /></a>
-  <a href="https://ghfind.com/u/hyaciovo?ref=badge"><img src="https://ghfind.com/api/badge/hyaciovo?lang=zh" alt="GitHub Roast 评分徽章" /></a>
+  <a href="https://ghfind.com/u/hyaciovo?ref=badge"><img src="https://ghfind.com/api/badge/hyaciovo" alt="GitHub Roast" /></a>
 </p>
 
 ## About me
